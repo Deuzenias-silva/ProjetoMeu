@@ -1,9 +1,9 @@
-# The-Last-Of-Us
+# x-men
 [![NPM](https://img.shields.io/npm/l/react)]https://github.com/Deuzenias-silva/ProjetoMeu/blob/main/LICENSE
 
 # Sobre o projeto
 
-LINK DO PROJETO: file:///C:/Users/DEUZENIAS%20DA%20COSTA/Desktop/PROJETOS/projeto-the-last-of-us-finalizado/projeto-the-last-of-us/index.html
+LINK DO PROJETO: file:///C:/Users/DEUZENIAS%20DA%20COSTA/Desktop/PROJETOS/x-men/index.html
 
 The Last Of Us é uma aplicação Front-End construída durante uma edição da **Semana do programador contratado** (#sds1), evento organizado pela https://devemdobro.com/evento/
 
